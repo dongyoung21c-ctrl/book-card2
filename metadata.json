@@ -1,0 +1,6 @@
+{
+  "name": "생각 쑥쑥 독서 질문 카드",
+  "description": "책 제목과 인상 깊은 장면을 적으면 생각을 넓혀 주는 3가지 질문 카드를 만들어 주는 초등학생용 독서 생각 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
